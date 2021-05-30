@@ -19,7 +19,9 @@ The function updateUI was created which its role is to update all the UI compone
 
 Clone this repository and import into Android Studio
 
+```
 git clone https://github.com/rrbaeta/RGBColourSlider.git
+```
 
 **Run:**
 
