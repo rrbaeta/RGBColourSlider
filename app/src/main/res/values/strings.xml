@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RGB Colour Slider</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blueText">Blue</string>
+    <string name="greenText">Green</string>
+    <string name="redText">Red</string>
+    <string name="hexadecimal_rgbText">Hexadecimal RGB</string>
+</resources>
